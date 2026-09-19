@@ -1,15 +1,15 @@
-                     --=== New Tab Page ====--
+# New Tab Page 
 
     This is a lightweight custom neww= tab page for your browser. it has a simple clean dashboard and UI with cool Nasa backgrounds, quick search, shortcuts, etc.
 
 **FEATURES:**
 
-    -Clock and smart greeting based on time of day
-    -Nasa Astronomy Picture of the Day (APOD) background
-    -Simple elegant search bar
-    -Quick links to access your favourite websites
-    -Simple To-Do Listing
-    -Stores your links to local browser storage 
+    - Clock and smart greeting based on time of day
+    - Nasa Astronomy Picture of the Day (APOD) background
+    - Simple elegant search bar
+    - Quick links to access your favourite websites
+    - Simple To-Do Listing
+    - Stores your links to local browser storage 
 
 **How to Use:**
 
@@ -17,4 +17,10 @@
     2. Open index.html in your browser
 
 
-    Html5, Tailwind CSS, JavaScript
+**Tech Stack**
+
+    - HTML5
+    - CSS3
+    - JavaScript
+    - Nasa API
+    - Github Pages
